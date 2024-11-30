@@ -1,2 +1,3 @@
 ﻿  Homework2.cpp
+D:\資料結構作業\Homewark1\Homework2\Homework2\Homework2.cpp(31,35): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
   Homework2.vcxproj -> D:\資料結構作業\Homewark1\Homework2\x64\Debug\Homework2.exe
